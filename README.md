@@ -1,6 +1,6 @@
 # `🔥𝙳𝚁𝙰𝙶𝙾-𝙱𝙾𝚃-𝙼𝙳🔥`
 <p align="center"> 
-  <a href="https://github.com/DIEGO-OFC/DORRAT-BOT-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=ALEX+BOT+MD++💦;Gracias+por+visitar+este+repositorio.🌀" height="90px"
+  <a href="https://github.com/DIEGO-OFC/DORRAT-BOT-MD"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=DRAGO+BOT+MD++💦;Gracias+por+visitar+este+repositorio.🌀" height="90px"
 </p> 
 
 
