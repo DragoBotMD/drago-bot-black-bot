@@ -92,7 +92,7 @@ pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn
 ```
 
 ```bash
-git clone https://github.com/Alexis-RXT/TERMUX-MD
+git clone https://github.com/DragoBotMD/drago-bot-black-bot
 ```
 
 ```bash
